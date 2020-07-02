@@ -9,7 +9,7 @@
         android:id="@+id/textView3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Favourite Fragment"
+        android:text="@string/favourite_fragment"
         android:textSize="20sp"
         android:gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
